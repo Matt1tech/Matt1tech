@@ -1,5 +1,27 @@
 # 💫 About Me:
-👋 Hi there! I’m Albukaai Mohamad (Matt)<br>🚀 Software Engineer | AI, ML & LLM Enthusiast<br><br>I specialize in building innovative, scalable, and intelligent applications across various platforms.<br><br>What I’ve Worked On<br>🛠 Text-to-Speech (TTS) Model: Custom speech synthesis systems for seamless voice interaction.<br>💬 Interactive ChatBox: A React-based chat system with features like ASR, TTS, and dynamic UI controls.<br><br>🤖 AI, ML & LLM Projects: Leveraging machine learning and Large Language Models (LLMs) for solutions in E-commerce, Education, Healthcare, and Wellness<br><br>🌐 Web Development:<br>ASP.NET & React: Robust, enterprise-level web applications.<br><br>Django & FastAPI: Backend services and RESTful APIs for scalable applications.<br><br>Highlighted Projects<br>📚 Library Management System: Designed and developed a library system focused on book tracking, cataloging, borrower management, and ensuring usability, reliability, and performance.<br><br>🛒 E-commerce Perfume Platform: Created an intuitive online gallery for perfumes, integrating secure payment gateways and a user-friendly interface.<br><br>🚗 Car Renting System: Designed a system prototype using Figma and conducted thorough system analysis to streamline rental processes.<br><br>🏨 Hotel Reservation System: Built a robust backend for a hotel reservation system using Java, applying object-oriented programming principles for real-time booking and secure data management.<br><br>🎓 Student Management System: Developed a system to manage student records and performance analysis using Java, enhancing administrative efficiency with advanced data structures.<br><br>💡 Diabetes Prevention Mobile Application: A comprehensive mobile app developed as a Final Year Project using Flutter and Django.<br>This app integrates AI for health management, supports SDG goals, and includes NoSQL database management with MongoDB.<br><br>📘 Educational Platform: Enabled tutors to create and update courses, manage quizzes, and issue certificates while supporting students with job opportunities and administrators with job listings.<br><br>🌳 Penang 1 Million Trees Planting App: Contributed to testing this sustainability-focused app by identifying and reporting bugs, enhancing its reliability and usability.<br><br>🔎 I’m driven to solve real-world challenges by blending Software Engineering principles with cutting-edge technologies like AI, ML, and LLMs.<br><br>Let’s collaborate and build something extraordinary! 🚀<br>
+Hi, I’m Albukaai Mohamad (Matt) – a passionate Software Engineer specializing in AI, ML, and LLMs.
+
+🚀 I build intelligent, scalable applications across web, mobile, and AI-driven platforms, solving real-world challenges through innovation.
+
+🔹 Key Projects:
+
+Text-to-Speech Model: Custom speech synthesis for seamless voice interaction.
+
+Interactive ChatBox: A React-based chat system with ASR, TTS, and dynamic UI controls.
+
+AI & ML Solutions: Applied in E-commerce, Education, Healthcare, and Wellness.
+
+Web Development: ASP.NET, React, Django & FastAPI for scalable applications.
+
+Major Systems: Library Management, E-commerce, Car Rental, Hotel Booking, Student Management, and more.
+
+Diabetes Prevention App: AI-powered health management app built with Flutter & Django.
+
+Educational Platform: Course management, quizzes, certification, and job support.
+
+Sustainability Projects: Contributed to testing Penang’s 1 Million Trees Planting App.
+
+💡 Passionate about blending software engineering with AI to create impactful solutions. Let’s innovate together! 🚀
 
 
 ## 🌐 Socials:
